@@ -1,0 +1,9 @@
+# # # p 1 rte The LAGO ANNA Suite v5
+# # L1 level file (processed raw data, use at your own risk or contact lago@lagoproject.org)
+# # This is the rate (pulse per second) file.
+# # Format is:
+# # second temperature pressure Total_Rate Rate_per_channel:_(3)_columns
+# # An offline trigger of 100 100 100 ADC above baseline has been used for each channel respectively.
+1331730921 24.80 924.44 1 0 0 0
+1331733559 25.40 924.08 1 0 0 0
+1331733560 25.40 924.08 2 0 0 0
